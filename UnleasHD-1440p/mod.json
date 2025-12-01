@@ -1,0 +1,199 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Options",
+      "Elements": [
+	  		{
+		"Name": "IncludeDir6",
+		"DisplayName": "Do you have DLC? (Required)",
+		"Description": [
+		"Replaces certain assets if DLC is installed. Choosing an option that doesn’t match your game’s setup will result in visual errors.",
+				],
+            "Type": "DLC",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./DLC/HasDLC/"
+		},
+        {
+		"Name": "IncludeDir2",
+		"DisplayName": "Button Type",
+		"Description": [
+		"Choose a button type. Be sure to set your in-game Controller Icon option accordingly: use PlayStation when using UnleasHD’s PS3 or PS5 buttons, and use Xbox when using UnleasHD’s 360, Series X/S, Switch, or GameCube buttons.",
+				],
+            "Type": "UIButton",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./ButtonType/Button_Xbox360/"
+		},
+		{
+		"Name": "IncludeDir3",
+		"DisplayName": "HUD Ring Type",
+		"Description": [
+		"Choose the style of Ring displayed in the HUD. The HD Ring was re-rendered in Blender at a higher polygon count, while the Hedgehog Engine Ring was captured in-engine and is more faithful.",
+				],
+            "Type": "HUDRingType",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./RingType/HD_Ring/"
+		},
+		 {
+          "Name": "IncludeDir1",
+          "DisplayName": "Boost Gauge Text",
+          "Description": [
+            "Choose the Boost Gauge's displayed text. Either between Ring Energy or Boost Energy.",
+          ],
+          "Type": "BoostType",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "./BoostGauge/ringenergy/"
+        },
+		{
+		"Name": "IncludeDir5",
+		"DisplayName": "Boost Gauge Type",
+		"Description": [
+		"Choose the style of the Boost Gauge. The stock option is the most faithful, while the HD option uses the same high-poly HD Ring from the HUD option for a consistent look.",
+				],
+            "Type": "BoostGaugeType",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./BoostGaugeType/Stock/"
+		},
+		{
+		"Name": "IncludeDir4",
+		"DisplayName": "Life Type",
+		"Description": [
+		"Choose the style of the life icon. One is based on Sonic Colors and one is the stock design, each with variants that have a gradient.",
+				],
+            "Type": "LifeType",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./LifeType/Unleashed-Normal/"
+		}
+      ]
+    }
+  ],
+  "Enums": {
+    "UIButton": [
+      {
+        "DisplayName": "Stock (Not Redrawn)",
+        "Value": ""
+      },
+      {
+        "DisplayName": "PlayStation 3",
+        "Value": "./ButtonType/Button_PS3"
+      },
+      {
+        "DisplayName": "PlayStation 3 (X Homing)",
+        "Value": "./ButtonType/Button_PS3_AHoming"
+      },
+      {
+        "DisplayName": "PlayStation 5",
+        "Value": "./ButtonType/Button_PS5"
+      },
+      {
+        "DisplayName": "PlayStation 5 (X Homing)",
+        "Value": "./ButtonType/Button_PS5_AHoming"
+      },
+      {
+        "DisplayName": "Xbox 360",
+        "Value": "./ButtonType/Button_Xbox360"
+      },
+      {
+        "DisplayName": "Xbox 360 (A Homing)",
+        "Value": "./ButtonType/Button_Xbox360_AHoming"
+      },
+      {
+        "DisplayName": "Xbox Series X/S",
+        "Value": "./ButtonType/Button_SeriesX"
+      },
+      {
+        "DisplayName": "Xbox Series X/S (A Homing)",
+        "Value": "./ButtonType/Button_SeriesX_AHoming"
+      },
+      {
+        "DisplayName": "Nintendo Switch (Pro Controller)",
+        "Value": "./ButtonType/Button_NX"
+      },
+      {
+        "DisplayName": "Nintendo Switch (B Homing)",
+        "Value": "./ButtonType/Button_NX_AHoming"
+      },
+      {
+        "DisplayName": "Nintendo Switch (Joy-Con)",
+        "Value": "./ButtonType/Button_JoyCon"
+      },
+      {
+        "DisplayName": "Nintendo Switch (Joy-Con) (B Homing)",
+        "Value": "./ButtonType/Button_JoyCon_AHoming"
+      },
+      {
+        "DisplayName": "GameCube",
+        "Value": "./ButtonType/Button_GC"
+      },
+      {
+        "DisplayName": "GameCube (A Homing)",
+        "Value": "./ButtonType/Button_GC_AHoming"
+      },
+    ],
+    "BoostType": [
+      {
+        "DisplayName": "Ring Energy",
+        "Value": "./BoostGauge/ringenergy/",
+      },
+      {
+        "DisplayName": "Boost Energy",
+        "Value": "./BoostGauge/boostenergy/",
+      }
+    ],
+    "BoostGaugeType": [
+      {
+        "DisplayName": "HD Ring",
+        "Value": "./BoostGaugeType/HDRing/",
+      },
+      {
+        "DisplayName": "Stock",
+        "Value": "./BoostGaugeType/StockRing/",
+      }
+    ],
+	 "HUDRingType": [
+      {
+        "DisplayName": "HD Ring",
+        "Value": "./RingType/HD_Ring/",
+      },
+      {
+        "DisplayName": "Hedgehog Engine Ring",
+        "Value": "./RingType/Hedgehog_Engine_Ring/",
+      }
+    ],
+	 "LifeType": [
+      {
+        "DisplayName": "Unleashed",
+        "Value": "./LifeType/Unleashed-Normal/",
+      },
+      {
+        "DisplayName": "Unleashed (Gradient)",
+        "Value": "./LifeType/Unleashed-Gradient/",
+      },
+      {
+        "DisplayName": "Colors",
+        "Value": "./LifeType/Colors-Normal/",
+      },
+      {
+        "DisplayName": "Colors (Gradient)",
+        "Value": "./LifeType/Colors-Gradient/",
+      }
+    ],
+	 "DLC": [
+      {
+        "DisplayName": "DLC Installed",
+        "Value": "./DLC/HasDLC/",
+      },
+      {
+        "DisplayName": "No DLC Installed",
+        "Value": "./DLC/NoDLC/",
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
