@@ -33,7 +33,7 @@ add MainMod/+Town_Common.arl
 add MainMod/+Town_Labo_Common.ar.00
 add MainMod/+Town_Labo_Common.arl
 add MainMod/+WorldMap.ar.00
-add MainMod/+WorldMap.arl         
+add MainMod/+WorldMap.arl
 add MainMod/Inspire/subtitle/English/+evrt_m0_01_05.ar.00
 add MainMod/Inspire/subtitle/English/+evrt_m0_01_05.arl
 add MainMod/Inspire/subtitle/English/+evrt_m0_06.ar.00
@@ -198,7 +198,7 @@ add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_PS5_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_PS5_AHoming/Loading/ma_loadinfo_robo_1.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_sonic_1.dds
@@ -284,7 +284,7 @@ add ButtonType/Button_SeriesX_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_SeriesX_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_SeriesX_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_SeriesX_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_SeriesX_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_sonic_1.dds
