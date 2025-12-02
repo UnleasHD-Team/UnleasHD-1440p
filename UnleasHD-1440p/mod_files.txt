@@ -177,6 +177,8 @@ add MainMod/Languages/English/+Town_SouthEastAsia_Common.ar.00
 add MainMod/Languages/English/+Town_SouthEastAsia_Common.arl
 add MainMod/Languages/English/+WorldMap.ar.00
 add MainMod/Languages/English/+WorldMap.arl
+add ButtonType/Button_PS5_AHoming/+Loading.ar.00
+add ButtonType/Button_PS5_AHoming/+Loading.arl
 add ButtonType/Button_PS5_AHoming/+Application.ar.00
 add ButtonType/Button_PS5_AHoming/+Application.arl
 add ButtonType/Button_PS5_AHoming/+SonicActionCommonGeneral.ar.00
@@ -218,6 +220,8 @@ add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_PS5/+Loading.ar.00
+add ButtonType/Button_PS5/+Loading.arl
 add ButtonType/Button_PS5/+Application.ar.00
 add ButtonType/Button_PS5/+Application.arl
 add ButtonType/Button_PS5/+SonicActionCommonGeneral.ar.00
@@ -259,6 +263,8 @@ add ButtonType/Button_PS5/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_SeriesX_AHoming/+Loading.ar.00
+add ButtonType/Button_SeriesX_AHoming/+Loading.arl
 add ButtonType/Button_SeriesX_AHoming/+Application.ar.00
 add ButtonType/Button_SeriesX_AHoming/+Application.arl
 add ButtonType/Button_SeriesX_AHoming/+SonicActionCommonGeneral.ar.00
@@ -300,6 +306,8 @@ add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_SeriesX_AHoming/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_SeriesX/+Loading.ar.00
+add ButtonType/Button_SeriesX/+Loading.arl
 add ButtonType/Button_SeriesX/+Application.ar.00
 add ButtonType/Button_SeriesX/+Application.arl
 add ButtonType/Button_SeriesX/+SonicActionCommonGeneral.ar.00
@@ -341,6 +349,8 @@ add ButtonType/Button_SeriesX/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_JoyCon/+Loading.ar.00
+add ButtonType/Button_JoyCon/+Loading.arl
 add ButtonType/Button_JoyCon/+Application.ar.00
 add ButtonType/Button_JoyCon/+Application.arl
 add ButtonType/Button_JoyCon/+SonicActionCommonGeneral.ar.00
@@ -382,6 +392,8 @@ add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_JoyCon_AHoming/+Loading.ar.00
+add ButtonType/Button_JoyCon_AHoming/+Loading.arl
 add ButtonType/Button_JoyCon_AHoming/+Application.ar.00
 add ButtonType/Button_JoyCon_AHoming/+Application.arl
 add ButtonType/Button_JoyCon_AHoming/+SonicActionCommonGeneral.ar.00
@@ -458,6 +470,8 @@ add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_GC_AHoming/+Loading.ar.00
+add ButtonType/Button_GC_AHoming/+Loading.arl
 add ButtonType/Button_GC_AHoming/+Application.ar.00
 add ButtonType/Button_GC_AHoming/+Application.arl
 add ButtonType/Button_GC_AHoming/+SonicActionCommonGeneral.ar.00
@@ -499,6 +513,8 @@ add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_GC/+Loading.ar.00
+add ButtonType/Button_GC/+Loading.arl
 add ButtonType/Button_GC/+Application.ar.00
 add ButtonType/Button_GC/+Application.arl
 add ButtonType/Button_GC/+SonicActionCommonGeneral.ar.00
@@ -544,6 +560,8 @@ add BoostGauge/boostenergy/Languages/English/+Sonic.ar.00
 add BoostGauge/boostenergy/Languages/English/+Sonic.arl
 add BoostGauge/ringenergy/Languages/English/+Sonic.ar.00
 add BoostGauge/ringenergy/Languages/English/+Sonic.arl
+add ButtonType/Button_NX/+Loading.ar.00
+add ButtonType/Button_NX/+Loading.arl
 add ButtonType/Button_NX/+Application.ar.00
 add ButtonType/Button_NX/+Application.arl
 add ButtonType/Button_NX/+SonicActionCommonGeneral.ar.00
@@ -585,6 +603,8 @@ add ButtonType/Button_NX/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_NX_AHoming/+Loading.ar.00
+add ButtonType/Button_NX_AHoming/+Loading.arl
 add ButtonType/Button_NX_AHoming/+Application.ar.00
 add ButtonType/Button_NX_AHoming/+Application.arl
 add ButtonType/Button_NX_AHoming/+SonicActionCommonGeneral.ar.00
@@ -626,6 +646,8 @@ add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_werehog_6.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_werehog_7.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_werehog_8.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_werehog_9.dds
+add ButtonType/Button_PS3/+Loading.ar.00
+add ButtonType/Button_PS3/+Loading.arl
 add ButtonType/Button_PS3/+Application.ar.00
 add ButtonType/Button_PS3/+Application.arl
 add ButtonType/Button_PS3/+SonicActionCommonGeneral.ar.00

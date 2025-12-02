@@ -1,3 +1,7 @@
+## UnleasHD v1.4.2
+
+* fixed PlayStation 5 homing button bug
+
 ## UnleasHD v1.4.1
 
 * adjusted PlayStation 5 buttons
