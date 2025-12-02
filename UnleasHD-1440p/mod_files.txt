@@ -198,7 +198,7 @@ add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_PS5_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_PS5_AHoming/Loading/ma_loadinfo_robo_1.dds
+add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_PS5_AHoming/Loading/mat_loadinfo_sonic_1.dds
@@ -241,7 +241,7 @@ add ButtonType/Button_PS5/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_PS5/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_PS5/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_PS5/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_PS5/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_PS5/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_PS5/Loading/mat_loadinfo_sonic_1.dds
@@ -327,7 +327,7 @@ add ButtonType/Button_SeriesX/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_SeriesX/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_SeriesX/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_SeriesX/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_SeriesX/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_SeriesX/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_SeriesX/Loading/mat_loadinfo_sonic_1.dds
@@ -370,7 +370,7 @@ add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_JoyCon/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_sonic_1.dds
@@ -413,7 +413,7 @@ add ButtonType/Button_JoyCon_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_JoyCon_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_JoyCon_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_JoyCon_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_JoyCon_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_JoyCon_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_JoyCon_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_JoyCon_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_JoyCon_AHoming/Loading/mat_loadinfo_sonic_1.dds
@@ -448,7 +448,7 @@ add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_JoyCon/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_JoyCon/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_JoyCon/Loading/mat_loadinfo_sonic_1.dds
@@ -491,7 +491,7 @@ add ButtonType/Button_GC_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_GC_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_GC_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_GC_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_GC_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_GC_AHoming/Loading/mat_loadinfo_sonic_1.dds
@@ -534,7 +534,7 @@ add ButtonType/Button_GC/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_GC/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_GC/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_GC/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_GC/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_GC/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_GC/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_GC/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_GC/Loading/mat_loadinfo_sonic_1.dds
@@ -581,7 +581,7 @@ add ButtonType/Button_NX/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_NX/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_NX/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_NX/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_NX/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_NX/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_NX/Loading/mat_loadinfo_sonic_1.dds
@@ -624,7 +624,7 @@ add ButtonType/Button_NX_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_NX_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_NX_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_NX_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_NX_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_NX_AHoming/Loading/mat_loadinfo_sonic_1.dds
@@ -733,7 +733,7 @@ add ButtonType/Button_Xbox360/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_Xbox360/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_Xbox360/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_Xbox360/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_Xbox360/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_Xbox360/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_Xbox360/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_Xbox360/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_Xbox360/Loading/mat_loadinfo_sonic_1.dds
@@ -776,7 +776,7 @@ add ButtonType/Button_Xbox360_AHoming/Hint/WhiteIsland_ACT1_008D.dds
 add ButtonType/Button_Xbox360_AHoming/Hint/WhiteIsland_ACT1_015D.dds
 add ButtonType/Button_Xbox360_AHoming/Hint/WhiteIsland_ACT1_020N.dds
 add ButtonType/Button_Xbox360_AHoming/Hint/WhiteIsland_ACT2_005D.dds
-add ButtonType/Button_Xbox360_AHoming/Loading/mad_loadinfo_robo_1.dds
+add ButtonType/Button_Xbox360_AHoming/Loading/mat_loadinfo_robo_1.dds
 add ButtonType/Button_Xbox360_AHoming/Loading/mat_loadinfo_robo_2.dds
 add ButtonType/Button_Xbox360_AHoming/Loading/mat_loadinfo_robo_3.dds
 add ButtonType/Button_Xbox360_AHoming/Loading/mat_loadinfo_sonic_1.dds
